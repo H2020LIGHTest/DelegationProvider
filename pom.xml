@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>eu.lightest</groupId>
-    <artifactId>DelegationProvider</artifactId>
+    <artifactId>delegationprovider</artifactId>
     <version>1.0.1</version>
     <packaging>war</packaging>
 
