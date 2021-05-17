@@ -22,8 +22,7 @@
      <repositories>
         <repository>
             <id>iaik</id>
-            <name>LIGHTest Libs Repository</name>
-            <url>https://extgit.iaik.tugraz.at/api/v4/projects/1288/packages/maven</url>
+            <url>https://extgit.iaik.tugraz.at/api/v4/groups/341/-/packages/maven</url>
         </repository>
     </repositories>
 
